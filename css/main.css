@@ -1,5 +1,5 @@
 /* @group imports */
-@import url('https://fonts.googleapis.com/css2?family=Londrina+Shadow&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap');
 
 /* @group main */
@@ -14,7 +14,9 @@ body { margin: 0;
 
 header { display: flex;
          background: #304058;
-         font-family: 'Londrina Shadow', cursive;
+         font-family: 'Open Sans', sans-serif;
+         color: #fdf0ed;
+         font-size: 14px;
          align-items: center; }
 
 header img { padding: 0 30px 0 30px; }
